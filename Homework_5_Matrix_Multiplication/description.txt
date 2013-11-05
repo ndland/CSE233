@@ -1,0 +1,5 @@
+Had to get the contents of each file
+put the contents into a list of lists (matrix)
+multply them out
+draw the window
+and set the colors
